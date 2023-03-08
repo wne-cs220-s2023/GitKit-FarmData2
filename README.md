@@ -1,3 +1,11 @@
+> **NOTE**
+>
+> This is not the ***real*** FarmData2 project. This project is here for training purposes. If you want to contribute to the real FarmData2 project,
+> it is here:
+>
+>    <https://github.com/DickinsonCollege/FarmData2>
+
+
 ## FarmData2 ##
 
 FarmData2 is an application that supports the operation and certification requirements for small organic farming operations.
